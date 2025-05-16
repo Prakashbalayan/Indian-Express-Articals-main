@@ -40,4 +40,4 @@ This project focuses on extracting and analyzing news articles from **The Indian
 pip install -r requirements.txt
 python scraper.py
 
-Let me know if your project is different (e.g., it’s a UI app or uses another language), and I’ll adjust this accordingly.
+
